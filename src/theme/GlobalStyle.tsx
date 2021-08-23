@@ -27,24 +27,6 @@ export const GlobalStyle = createGlobalStyle`
         padding: 0;
     }
 
-    h1 {
-        font-weight: 600;
-        font-size: 72px;
-        line-height: 86px;
-    }
-
-    h2 {
-        font-weight: 600;
-        font-size: 46px;
-        line-height: 60px;
-    }
-
-    h3 {
-        font-weight: 600;
-        font-size: 28px;
-        line-height: 36px;
-    }
-
     p, span {
         font-weight: 500;
         font-size: 18px;
@@ -55,16 +37,10 @@ export const GlobalStyle = createGlobalStyle`
         }
     }
 
-
     h4 {
         font-weight: 700;
         font-size: 24px;
         line-height: 33px;
-    }
-    h5 {
-        font-weight: 300;
-        font-size: 24px;
-        line-height: 1.4;
     }
 
 `

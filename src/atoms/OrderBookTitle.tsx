@@ -19,7 +19,6 @@ const StyledOrderBookTitle = styled.div`
 
 const Text = styled.h4`
     text-transform: uppercase;
-
     
     @media (max-width: 767.98px) {
         font-size: 22px;
@@ -27,7 +26,7 @@ const Text = styled.h4`
 `
 
 const ColorfullText = styled.h4<ColorfullTextProps>`
-    color: ${({textColor}) => textColor === "red" ? "#E83C51" : "#6de22e"};
+    color: ${({textColor, theme}) => textColor === "red" ? theme.secondaryColor :  theme.terciaryColor};
     margin-left: 5px;
     text-transform: uppercase;
 `

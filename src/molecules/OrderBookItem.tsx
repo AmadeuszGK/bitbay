@@ -23,7 +23,7 @@ const StyledOrderBookItem = styled.div`
 
 const OrderBookItemValue = styled.span`
     padding: 5px 0;
-    font-size: 14px;
+    font-size: 16px;
 
     @media (max-width: 767.98px) {
         font-size: 12px;

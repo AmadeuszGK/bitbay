@@ -19,7 +19,11 @@ const StyledOrderBookItemsHeader = styled.div`
 
 const OrderBookItemsTitle = styled.h6`
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 16px;
+
+    @media (max-width: 767.98px) {
+        font-size: 12px;
+    }
 `
 
 export const OrderBookItemsHeader: React.FC = () => (

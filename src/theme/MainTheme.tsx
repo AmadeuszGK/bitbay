@@ -11,8 +11,5 @@ export const theme: DefaultTheme = {
     paddingLaptop: '0 100px',
     paddingTablet: '0 60px',
     paddingPhone: '0 16px',
-    columnTablet: '0 16px',
-    columnLaptop: '0 20px',
-    columnDesktop: '0 60px',
     boxShadow: '0px 4px 16px rgba(0, 0, 0, 0.16)'
 }
