@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/.github.io/bitbay/static/css/main.e04c55bb.chunk.css",
-    "main.js": "/.github.io/bitbay/static/js/main.c0202c1a.chunk.js",
-    "main.js.map": "/.github.io/bitbay/static/js/main.c0202c1a.chunk.js.map",
+    "main.js": "/.github.io/bitbay/static/js/main.24615c42.chunk.js",
+    "main.js.map": "/.github.io/bitbay/static/js/main.24615c42.chunk.js.map",
     "runtime-main.js": "/.github.io/bitbay/static/js/runtime-main.db2a6ffc.js",
     "runtime-main.js.map": "/.github.io/bitbay/static/js/runtime-main.db2a6ffc.js.map",
     "static/js/2.6306878d.chunk.js": "/.github.io/bitbay/static/js/2.6306878d.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.db2a6ffc.js",
     "static/js/2.6306878d.chunk.js",
     "static/css/main.e04c55bb.chunk.css",
-    "static/js/main.c0202c1a.chunk.js"
+    "static/js/main.24615c42.chunk.js"
   ]
 }
