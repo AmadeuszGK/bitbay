@@ -3,7 +3,7 @@ import { theme } from './theme/MainTheme';
 import styled, { ThemeProvider } from 'styled-components';
 import { GlobalStyle } from './theme/GlobalStyle';
 import { Logo } from './atoms/Logo';
-// import "./fonts.css";
+import "./fonts.css";
 import { Footer } from './atoms/Footer';
 
 const AppWrapper = styled.div`
